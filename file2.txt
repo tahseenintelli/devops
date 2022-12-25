@@ -1,1 +1,2 @@
 This is first line in file2.
+Adding another line after chanigng the config

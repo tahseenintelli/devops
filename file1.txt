@@ -4,3 +4,5 @@ Adding another line
 
 Modified
 Modified again
+
+Modified in branch_from_vscode

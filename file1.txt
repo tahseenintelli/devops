@@ -6,3 +6,5 @@ Modified
 Modified again
 
 Modified in branch_from_vscode
+
+This is now modified in newfeature
